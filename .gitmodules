@@ -1,0 +1,3 @@
+[submodule "app/xmorph42"]
+	path = app/xmorph42
+	url = https://github.com/xmorph42/zmk-config.git
